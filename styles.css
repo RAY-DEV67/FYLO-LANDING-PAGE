@@ -1,0 +1,49 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background-color: hsl(217, 28%, 15%);
+    font-family: 'Raleway', sans-serif;
+}
+main{
+    background-color: hsl(218, 28%, 13%);
+}
+.desktopcurve{
+    display: none;
+}
+.early{
+    position: relative;
+    z-index: 74746;
+    background-color: hsl(217, 28%, 15%);
+}
+.image2{
+    width: 90%;
+}
+.button{
+    background-color: hsl(198, 60%, 50%);
+}
+.button:hover{
+    background-color: hsl(176, 68%, 64%);
+}
+footer{
+    background-color:  hsl(216, 53%, 9%);
+}
+.testimonial{
+    background-color: hsl(219, 30%, 18%);
+    border-radius: 5px;
+}
+.fylo{
+    width: 50%;
+    color: hsl(176, 68%, 64%);
+    border-bottom: 2px solid hsl(176, 68%, 64%);
+}
+h1,h2{
+    font-weight: 700;
+}
+.navi a:hover{
+    color: hsl(176, 68%, 64%);
+}
+.fylo:hover{
+  font-size: 1.5rem;
+  width: 70%;
+}
